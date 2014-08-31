@@ -1,0 +1,53 @@
+body 
+{
+   
+    background : #303030;
+    text-align: center;
+    margin-left: auto; 
+    margin-right:auto;
+}
+#brkobj
+{
+    
+    margin-left:-600px;
+}
+#c
+{
+    
+    position : absolute;
+}
+#b
+{
+    
+    margin : auto;
+    
+ 
+}
+#bgc
+{
+    background : white;
+    margin-right: -604px;
+ 
+}
+#t
+{
+    background : white;
+    margin: auto;
+ 
+}
+#btn_play
+{
+    background-image: url("../images/btn_play.png");
+    background-position : bottom;
+    width : 90px;
+    height : 50px;
+    z-index: 500;
+    margin-top: 200px;
+    margin-left: -325px;
+    position : absolute;    
+
+}
+#btn_play:hover
+{
+    background-position:0 0;
+}
